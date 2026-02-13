@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mary Ayako Khamati
 
-<!--
-**ayakomary42-jpg/ayakomary42-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Finance at United States International University-Africa (USIU)
+- I'm interested in AI and data analysis.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python and machine leraning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: ayakomary42@gmail.com
+- LinkedIn: www.linkedin.com/in/mary-ayako-khamati-933218274
+  
