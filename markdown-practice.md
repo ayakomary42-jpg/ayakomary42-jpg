@@ -1,8 +1,8 @@
 ## My Learning Goals 
 ### This Semester
 As a **finance student**, Iam eager to understand *AI and Machine Learning* so that I can efficiently contribute to a firm by applying `data-driven decision making` techniques.
-[My Github Profile] (https://github.com/ayakomary42-jpg)
-[My LinkedIn Profile] (https://www.linkedin.com/in/mary-ayako-khamati-933218274)
+My Github Profile (https://github.com/ayakomary42-jpg)
+My LinkedIn Profile (https://www.linkedin.com/in/mary-ayako-khamati-933218274)
 ###  Things I want to Learn
 - Git and GitHub
 - Markdown
@@ -12,7 +12,6 @@ As a **finance student**, Iam eager to understand *AI and Machine Learning* so t
 - Commit changes using `grit commit -m "message"
 - Push changes using `grit push`
 |##Tool|##Purpose|##Link|
-````````````````````````
 |Git|Version control|https://git-scm.com|
 |VS Code|Code editor|https://code.visualstudio.com|
 ### Learning Checklist
