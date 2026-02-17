@@ -11,9 +11,10 @@ As a **finance student**, Iam eager to understand *AI and Machine Learning* so t
 - Stage changes using `grit add`
 - Commit changes using `grit commit -m "message"
 - Push changes using `grit push`
-|Tool | Purpose | Link |
-|Git | Version control | https://git-scm.com |
-|VS Code / Code editor | https://code.visualstudio.com |
+|##Tool|##Purpose|##Link|
+````````````````````````
+|Git|Version control|https://git-scm.com|
+|VS Code|Code editor|https://code.visualstudio.com|
 ### Learning Checklist
 - [x] Create a GitHub account
 - [x] Install Git
